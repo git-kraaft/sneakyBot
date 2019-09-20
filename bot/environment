@@ -1,4 +1,4 @@
-BOT_TOKEN=696039196:AAGj7MJd-hE_DJWpxK6BNbMYD5CLBpwoGqk
+BOT_TOKEN=[to be replaced by new personal bot toek]
 RABBIT_MQ_URL=amqp://rabbitmq:5672
 NOTIFICATIONS_CHANGES_QUEUE=notifications_changes
 RESPONSE_QUEUE=response_queue
